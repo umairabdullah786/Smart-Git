@@ -7,3 +7,17 @@ Hello World!!
 
 
 This Particular line work through Task_A branch
+
+
+
+This Particular line work through Task_B branch aa Current Branch Assumed
+
+
+
+This Particular line work through Task_Bb branch as Current Branch Assumed
+And I have a better plan to solve it 
+Initially I(Task_Bb) and Task_B both are created at a same time branch
+
+
+ 
+Plain txt by Task_C as a Current Branch Assumed
